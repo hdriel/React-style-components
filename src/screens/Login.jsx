@@ -21,9 +21,9 @@ const Form = styled.form`
         margin-top: 40px;
     }
   
-      >${Input} {
-        margin-top: 20px;
-      }
+    > ${Input} {
+      margin-top: 20px;
+    }
 `;
 
 let timeout;
