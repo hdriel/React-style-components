@@ -14,15 +14,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### Screenshots
-
-![home](./screenshots/home.png)
-![login-dark](./screenshots/login-dark.png)
-![home-dark](./screenshots/home-dark.png)
-![login-mobile](./screenshots/login-mobile.png)
-![spinner](./screenshots/spinner.png)
-![home-mobile-nav](./screenshots/home-mobile-nav.png)
-
 ### What I've learned:
 
 * Absolute imports: 🤯 <br>
@@ -311,3 +302,16 @@ You will also see any lint errors in the console.
         secondary: PropTypes.bool
     }
   ```
+
+<br>
+<br>
+<hr>
+
+### Screenshots
+
+![home](./screenshots/home.png)
+![login-dark](./screenshots/login-dark.png)
+![home-dark](./screenshots/home-dark.png)
+![login-mobile](./screenshots/login-mobile.png)
+![spinner](./screenshots/spinner.png)
+![home-mobile-nav](./screenshots/home-mobile-nav.png)
